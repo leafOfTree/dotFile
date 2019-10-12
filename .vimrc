@@ -14,10 +14,10 @@ Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'majutsushi/tagbar'
 Plugin 'ervandew/supertab'
-
 Plugin 'mattn/emmet-vim'
 Plugin 'maksimr/vim-jsbeautify'
 Plugin 'leafOfTree/vim-imagine'
+
 Plugin 'digitaltoad/vim-pug'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'ap/vim-css-color'
