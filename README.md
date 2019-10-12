@@ -1,3 +1,3 @@
 # dotFile
 
-- .vimrc: Useful vim plugins
+- .vimrc: Useful vim plugins managed by VundleVim
