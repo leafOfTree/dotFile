@@ -26,6 +26,7 @@ Plugin 'leafOfTree/vim-vue-plugin'
 Plugin 'leafOfTree/vim-svelte-plugin'
 Plugin 'leafOfTree/vim-svelte-theme'
 Plugin 'leafOfTree/vim-run'
+Plugin 'leafOfTree/vim-blink'
 
 call vundle#end()
 filetype plugin indent on " required
