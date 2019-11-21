@@ -37,6 +37,9 @@ Plugin 'leafOfTree/vim-run'
 " Quickly move in INSERT mode
 Plugin 'leafOfTree/vim-blink'
 
+" Open browser to preview files from vim
+Plugin 'leafOfTree/vim-preview'
+
 call vundle#end()
 filetype plugin indent on " required
 "}}}
