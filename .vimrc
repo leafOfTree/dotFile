@@ -40,6 +40,9 @@ Plugin 'leafOfTree/vim-blink'
 " Open browser to preview files from vim
 Plugin 'leafOfTree/vim-preview'
 
+" Highlight matching tag
+Plugin 'leafOfTree/vim-matchtag'
+
 call vundle#end()
 filetype plugin indent on " required
 "}}}
