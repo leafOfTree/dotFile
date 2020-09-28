@@ -43,6 +43,9 @@ Plugin 'leafOfTree/vim-preview'
 " Highlight matching tag
 Plugin 'leafOfTree/vim-matchtag'
 
+" Manage projects
+Plugin 'leafOfTree/vim-projects'
+
 call vundle#end()
 filetype plugin indent on " required
 "}}}
