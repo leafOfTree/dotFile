@@ -1,0 +1,13 @@
+set multiple-cursors
+
+set incsearch
+set scrolloff=5
+
+map <c-u> <Plug>NextOccurrence
+map <c-x> <Plug>RemoveOccurrence
+map <c-o> <Plug>SkipOccurrence
+map g<c-u> <Plug>AllOccurrence
+
+map <c-s-g> <Action>(ToggleDistractionFreeMode)
+map K <Action>(EditorPageUp)
+map J <Action>(EditorPageDown)
